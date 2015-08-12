@@ -1,0 +1,12 @@
+".container": {
+	height: 50,
+	width: Ti.UI.FILL,
+	className: "menuItem"
+}
+
+".title":{
+	font:{
+		fontSize: 20,
+		fontWeight: 'bold'
+	}
+}

@@ -1,0 +1,5 @@
+".container": {
+	left: 10,
+	right: 10,
+	height: Ti.UI.FILL
+}
